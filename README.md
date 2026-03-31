@@ -238,6 +238,12 @@ That is why this version finally produced convincing evidence.
 
 这也是为什么这个版本终于拿到了足够硬的验证结果。
 
+as for speed, cold startup is very slow. warmup speed is ok.
+速度上冷启动非常慢，模型已经拉起来了，要比cpu+ram快。
+
+Hope someone buit it within amd gpu driver or llama-sever.
+希望有大佬能把amd green boost集成到gpu驱动，或是llama-sever上。或者整个易用的在windows上的exe文件。
+
 ---
 
 ## Project Layout ｜ 项目结构
